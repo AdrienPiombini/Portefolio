@@ -47,6 +47,7 @@
         <h3>Mes principaux sujets de veille en informatique</h3>
             <ul>
                 <li>Intelligence Artificielle</li>
+                <li>Machine learning</li>
             </ul>
     </div>
 </div>
