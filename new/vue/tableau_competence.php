@@ -1,0 +1,1 @@
+<center><embed src="../img/tableau.pdf" height="1280px" width="100%"></center>
